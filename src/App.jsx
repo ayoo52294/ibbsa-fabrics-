@@ -10,7 +10,7 @@ import StickyNavbar from "./Header/Fixed-Navbar";
 import Footer from "./Footer/Footer";
 import Hero1 from "./Hero1/Hero1";
 import About from "./About/About";
-import Contact from "./contact/contact";
+import Contact from "./Contact/Contact";
 import Card from "./Our-Services/card";
 
 function App() {

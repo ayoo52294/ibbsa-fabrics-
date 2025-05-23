@@ -1,4 +1,4 @@
-import "./contact.css";
+import "./Contact.css";
 import header from '../assets/pexels-hngstrm-1233648.jpg'
 
 function Contact() {
