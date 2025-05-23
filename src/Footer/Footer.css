@@ -1,0 +1,29 @@
+/* Footer */
+*{
+  overflow-x: hidden;
+}
+
+.footer {
+    margin-bottom: -1.7rem;
+    background: #333;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+  
+  .footer-socials a {
+    margin: 0 0.5rem;
+    font-size: 1.5rem;
+    color: white;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-socials a:hover {
+    color: #ec6543;
+  }
+  
